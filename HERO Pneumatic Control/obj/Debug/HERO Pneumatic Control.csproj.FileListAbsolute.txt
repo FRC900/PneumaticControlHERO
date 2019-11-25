@@ -1,0 +1,32 @@
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\HERO Pneumatic Control.csprojAssemblyReference.cache
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\HERO Pneumatic Control.csproj.CoreCompileInputs.cache
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\le\Hero Position Servo Example.exe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\be\Hero Position Servo Example.exe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\le\Hero Position Servo Example.pdb
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\be\Hero Position Servo Example.pdb
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\Hero Position Servo Example.exe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\Hero Position Servo Example.pdb
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\le\Hero Position Servo Example.pe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\le\Hero Position Servo Example.pdbx
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\be\Hero Position Servo Example.pe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\be\Hero Position Servo Example.pdbx
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\LE\CTRE.pe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\LE\ctre_netmf_native.pe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\BE\CTRE.pe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\BE\ctre_netmf_native.pe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\LE\CTRE.pdbx
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\LE\ctre_netmf_native.pdbx
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\BE\CTRE.pdbx
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\BE\ctre_netmf_native.pdbx
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\CTRE.dll
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\ctre_netmf_native.dll
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\CTRE.pdb
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\bin\Debug\ctre_netmf_native.pdb
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\be\Hero Position Servo Example.pe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\be\Hero Position Servo Example.pdbx
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\le\Hero Position Servo Example.pe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\le\Hero Position Servo Example.pdbx
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\HERO Pneumatic Control.csproj.CopyComplete
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\Hero Position Servo Example.exe
+C:\Users\marshall\source\repos\HERO Pneumatic Control\HERO Pneumatic Control\obj\Debug\Hero Position Servo Example.pdb
